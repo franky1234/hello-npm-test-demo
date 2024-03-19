@@ -1,0 +1,19 @@
+{
+  "name": "hello-npm-test-demo",
+  "version": "1.0.0",
+  "description": "show hello world test",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franky1234/hello-npm-test-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franky1234/hello-npm-test-demo/issues"
+  },
+  "homepage": "https://github.com/franky1234/hello-npm-test-demo#readme"
+}
